@@ -1,0 +1,21 @@
+@ echo off
+:Main Class
+color B
+:B
+echo Szia, mi a neved?
+set /p Name=
+echo Oke %Name% Kezdodhet a jatek? Ha igen nyomj entert!
+pause
+start https://surviv.io/
+cls
+echo Hamarosan indul a surviv.io nevu jatek.
+:Another Class
+echo Ha nem indul nyomj entert!
+pause
+:Another Class
+echo Ha nem megy ird be a bongeszodbe hogy surviv.io!
+pause
+:Another class
+echo Keszitette: Solymosi Benedek
+pause
+exit

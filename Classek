@@ -1,0 +1,15 @@
+@ echo off
+:Main Class
+color A
+:A
+color 1A
+:1A
+:Another class
+echo Szia!
+pause
+:Another Class
+echo Egy uj class.
+pause
+:Another Class
+echo Ez a 2. class.
+pause
